@@ -12,4 +12,4 @@
 - **ChatService** : 외부 프로그램(Python)을 실행시키고 결과 값을 받아옵니다
 
 #### ✅ Simple 코드 리뷰 이미지
-![Class](https://github.com/KimMarinet/quick_draw_be/blob/master/img/Class%20Diagram.png)
+![Class](https://github.com/KimMarinet/chatbot_be/blob/master/img/Class%20Diagram.png)
